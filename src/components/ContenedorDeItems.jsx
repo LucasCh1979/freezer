@@ -2,7 +2,9 @@ import React from 'react'
 
 const ContenedorDeItems = () => {
     return (
-        <div>ContenedorDeItems</div>
+        <div>
+            <h1>ContenedorDeItems</h1>
+        </div>
     )
 }
 
